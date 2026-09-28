@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design to Runtime"
+  short_description: "Turn design references into verified frontend UI"
+  default_prompt: "Use $design-to-runtime to implement this Figma, Penpot, or exported PNG reference in the current frontend project and verify the running page."

@@ -1,0 +1,15 @@
+{
+  "name": "design-to-runtime-skill",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A Codex skill for implementing and verifying Figma, Penpot, or exported PNG references in existing frontend projects.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-repo.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
